@@ -1,0 +1,50 @@
+===========================
+Processus metier existant
+===========================
+
+Achat de denrees alimentaire (faire ses courses)
+
+=========================================
+Decrire le probleme existant dans ce proc
+=========================================
+
+Perte de temps et d'argent dans la recherche de denree dans le supermarche
+Oubli de denree
+Achat en surplus
+Achat compulsif
+
+
+========================================
+Solutions envisagees
+========================================
+
+Solution logiciel sur l'organisation de l'achat de denrees par l'enregistrement
+de recettes et generation d'une liste de course.
+
+=======================================
+Besoins
+=======================================
+
+Service attendus :
+  - enregistrement de recettes
+  - creation d'une liste
+
+======================================
+Contraintes
+======================================
+
+
+
+=====================================
+Organisation de groupe
+=====================================
+
+Membres du groupe.
+
+
+
+Application de listing de courses.
+
+Faire une liste de denrees en fonction de recettes precedemment enregistrer et
+selectionner.
+
